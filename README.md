@@ -12,7 +12,7 @@
 <br>
 - 💻 Building real-world projects like **E-commerce websites, Clinic websites, UI designs, etc.**
 <br>
-- 📫 Reach me at: **rajatmishra.dev@gmail.com**
+- 📫 Reach me at: **rajatmishra1333@gmail.com**
 <br>
 - ⚡ Fun fact: **Riding gaves me happiness!**
 
