@@ -8,7 +8,7 @@
 
 ---
 
-- 🌱 Currently learning **MERN Stack, DevOps & DSA**
+- 🌱 Certified **MERN Stack, DevOps & DSA**
 <br>
 - 💻 Building real-world projects like **E-commerce websites, Clinic websites, UI designs, etc.**
 <br>
